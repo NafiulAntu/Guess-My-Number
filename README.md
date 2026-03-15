@@ -1,3 +1,4 @@
+[Live link] (https://nafiulantu.github.io/Guess-My-Number/)
 # Guess My Number
 
 A simple browser game where you try to guess a hidden number between 1 and 20.
